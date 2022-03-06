@@ -1,3 +1,4 @@
+```Java
 import java.lang.*;
 public class Main
 {
@@ -21,3 +22,4 @@ public class Main
 		 
 	}
 }
+```

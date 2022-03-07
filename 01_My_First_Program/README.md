@@ -4,7 +4,7 @@ import java.lang.*;
 //here import lang is showing that we are importing language package
 
 class Main {
-    // 1) class name should be same as file name, it can you different also.
+    // 1) class name should be same as file name, it can be different also.
     // 2) we have to write our main function between class.
     // 3) what ever class you are giving first letter of the class name must be capital.
 

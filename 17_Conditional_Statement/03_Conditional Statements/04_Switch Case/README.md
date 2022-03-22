@@ -1,3 +1,4 @@
+```JAVA
 //conditional Statement
 //Switch Case 
 
@@ -30,7 +31,7 @@ public class Main
 	        // and excutes the program if any condition is not statisfying then it will excutes default part
 	    }
 	}
-}```JAVA
+}
 
 ```
  

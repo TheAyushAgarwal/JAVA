@@ -2,7 +2,7 @@
 //conditional Statement
 //Switch Case 
 
-// maximum of three number ?
+// 
 
 public class Main
 {
